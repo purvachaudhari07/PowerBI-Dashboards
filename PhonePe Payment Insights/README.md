@@ -7,7 +7,7 @@ An interactive Power BI dashboard developed to analyze PhonePe payment transacti
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard%20Preview.png" width="900">
+  <img src="Dashboard%20Preview.png" width="800">
 </p>
 
 ---
@@ -78,13 +78,15 @@ This helps users quickly understand key business observations without manual ana
 
 The dashboard contains two custom tooltip pages that provide additional contextual information when hovering over visualizations.
 
-### Tooltip 1 – Total Transactions by Service Type
+### Tooltip 1
+Total Transactions by Service Type
 
 <p align="center">
   <img src="ToolTip1-Total%20transaction%20by%20Service%20Type.png" width="550">
 </p>
 
-### Tooltip 2 – Total Transaction Value by Service Type
+### Tooltip 2
+Total Transaction Value by Service Type
 
 <p align="center">
   <img src="ToolTip2-Total%20Transaction%20Value%20by%20Service%20Type.png" width="550">
@@ -103,17 +105,14 @@ The dashboard contains two custom tooltip pages that provide additional contextu
 
 ## 🚀 Skills Demonstrated
 
+- Power BI Dashboard Development
 - Data Visualization
-- Dashboard Development
-- KPI Design
-- Data Modeling
-- DAX Calculations
+- DAX
 - Power Query
-- Interactive Dashboard Design
-- Dynamic Text Measures
+- Data Modeling
+- KPI Design
 - Custom Tooltips
-- Cross Filtering
-- Business Insight Generation
+- Interactive Dashboard Design
 
 ---
 
@@ -135,6 +134,8 @@ This dashboard enables stakeholders to monitor transaction performance, identify
 
 ## 👩‍💻 Developed By
 
-Purva Chaudhari
+**Purva Chaudhari**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst
+
+**Skills:** Power BI • SQL • Excel • Python
