@@ -51,7 +51,9 @@ The dashboard includes **two custom tooltip pages** that provide additional cont
 Displays **Total Transactions by Service Type**.
 ![Tooltip 1](ToolTip1-Total%20transaction%20by%20Service%20Type.png)
 ### Tooltip 2
+
 Displays **Total Transaction Value by Service Type**.
+
 ![Tooltip 2](ToolTip2-Total%20Transaction%20Value%20by%20Service%20Type.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📷 Dashboard Preview
